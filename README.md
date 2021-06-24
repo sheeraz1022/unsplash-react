@@ -21,4 +21,7 @@ This project uses Rest API endpoint provided by Unsplash to fetch images. Eash p
 
 It uses `react-bootstrap` library to display images in grid view. When you click on the image, it will show bootstrap modal which will have an option to download the image or show actual unsplash url in a new tab
 
+## Deployment
+
+This project is hosted on netlify https://agitated-stonebraker-d1001c.netlify.app/ 
 
